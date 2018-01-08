@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "650843933669",
+    "firebase_url": "https://prince-7997f.firebaseio.com",
+    "project_id": "prince-7997f",
+    "storage_bucket": "prince-7997f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650843933669:android:08347c1ad5cdf3b6",
+        "android_client_info": {
+          "package_name": "com.lilian.prince"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650843933669-oe0iddsotrgeqdfm4e63qovvna697loi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lilian.prince",
+            "certificate_hash": "af7b19658fc9472de43290c8c897a658c5a106b9"
+          }
+        },
+        {
+          "client_id": "650843933669-ud6mf684l13t61clf9t98112hh94je7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPP9SoGL3CVCY8Ewkesgjd2zHIHgBS32Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650843933669-ud6mf684l13t61clf9t98112hh94je7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
